@@ -125,21 +125,7 @@ color: var(--secondary-color);
 .navbar-nav{
   margin-left: 40rem;
 }
-.ref{
-  display: block;
-  margin: 0 auto;
-  width: 1160px;
-  height: 200px;
-  background-color: var(--primary-color);
-}
-.ref-desc{
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-}
-.desc h2, .desc p{
-text-align: left;
-}
+
 .work-link{
   border-radius: 4px;
   padding: 20px 15px;
@@ -148,6 +134,7 @@ text-align: left;
   background: var(--secondary-color);
   box-shadow: var(--box-shadow);
   color: var(--primary-color);
+
 }
 .work-link:hover{
   color: var(--primary-color);
@@ -189,7 +176,7 @@ footer p{
   .navbar-nav{
     margin-left: 1rem;
   }
- 
+
   footer{
     margin-top: 50px;
   }
