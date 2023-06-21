@@ -140,7 +140,7 @@ p {
   padding: 0;
 }
 .home-content h1{
-  width: 825px;
+  /* width: 825px; */
 }
 .home-content a{
  text-decoration: none;
@@ -261,9 +261,6 @@ footer p{
   }
   .home-content{
     text-align: center;
-  }
-  .home-content h1{
-    width:500px;
   }
   .home-content h2{
     padding-top: 10px;
